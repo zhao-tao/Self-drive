@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="AndFix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../AndFix" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../AndFix/docs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../AndFix/build/generated/source/buildConfig/androidTest/debug" />
+      <root url="file://$PROJECT_DIR$/../AndFix/build/generated/source/buildConfig/debug" />
+      <root url="file://$PROJECT_DIR$/../AndFix/gen" />
+      <root url="file://$PROJECT_DIR$/../AndFix/samples/AndFixDemo/gen" />
+      <root url="file://$PROJECT_DIR$/../AndFix/samples/AndFixDemo/src" />
+      <root url="file://$PROJECT_DIR$/../AndFix/src" />
+    </SOURCES>
+  </library>
+</component>
